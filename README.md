@@ -1,0 +1,1 @@
+Este script genera la cantidad de contraseñas que le indiquemos, con el número de caracteres que especifiquemos entre 8 y 64 caracteres y además, proporciona un hash para cada contraseña, pudiendo elegir el tipo de hash entre unos pocos.
